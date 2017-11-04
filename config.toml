@@ -1,5 +1,5 @@
 baseURL = "https://daniellipovetsky.net"
-title = "daniel lipovetsky"
+title = "scribe ergo sum?"
 languageCode = "en-us"
 theme = "hugo-lithium-theme"
 # disqusShortname = "username"
@@ -21,8 +21,7 @@ theme = "hugo-lithium-theme"
     description = ""
 
     [params.logo]
-    url = ""
+    url = "logo.jpg"
     width = 50
     height = 50
-    alt = ""
-
+    alt = "watching the sun rise over crater lake"
