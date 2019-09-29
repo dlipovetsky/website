@@ -1,4 +1,4 @@
-baseURL = "https://daniellipovetsky.net"
+baseURL = "/"
 title = "scribe ergo sum?"
 languageCode = "en-us"
 theme = "hugo-lithium-theme"
