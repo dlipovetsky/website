@@ -2,4 +2,8 @@
   from = "/i3-tabn"
   to = "https://github.com/dlipovetsky/i3-tabn"
   force = true # COMMENT: ensure that we always redirect
+[[redirects]]
+  from = "/i3-tabn.git"
+  to = "https://github.com/dlipovetsky/i3-tabn.git"
+  force = true # COMMENT: ensure that we always redirect
 
