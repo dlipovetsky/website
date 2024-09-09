@@ -1,7 +1,7 @@
 ---
 title: "Observations on the Kubernetes Operator pattern"
 date: 2020-10-11T19:56:50Z
-draft: false
+type: "post"
 ---
 
 ## Applications Evolve
