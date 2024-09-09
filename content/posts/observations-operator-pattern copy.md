@@ -1,7 +1,7 @@
 ---
 title: "Mental model of maintaining a long-term git fork"
 date: 2022-08-19T03:10:00Z
-draft: false
+type: "post"
 ---
 
 ## The problem
